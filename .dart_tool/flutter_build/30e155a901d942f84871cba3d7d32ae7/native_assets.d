@@ -1,0 +1,1 @@
+ D:\\assignment.\ webdots\ Technologies\\product_stock_app\\.dart_tool\\flutter_build\\30e155a901d942f84871cba3d7d32ae7\\native_assets.yaml: 
